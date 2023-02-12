@@ -1,0 +1,188 @@
+*{
+    margin: 0;
+    padding: 0;}
+
+
+    button{background-color: orange;color: white; text-align: center;
+        margin-left: 70px;
+        font-size:25px;
+        font-style: normal;
+        border-radius: 5px;
+        margin-bottom: 90px;
+        margin-top: 15px;
+        cursor: pointer;
+}
+.one{
+ 
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    padding-top: 40px;
+    background-image: url(https://foreignpolicy.com/wp-content/uploads/2023/02/turkey-earthquake-GettyImages-1246887248.jpg?w=1000);
+    background-repeat: no-repeat;
+    width: 100%;
+    font-style: initial;
+   padding-left: 20px;
+   background-size: cover;
+
+  
+  
+}
+p{
+    font-size: 30px;text-align: center;
+    color: white;
+}
+    .two{text-align: center;
+        color: rgb(14, 20, 16);
+        font-size: 25px;
+        margin-top: 50px;
+
+    }
+    .contact{color: rgb(232, 11, 11);
+    font-size: 35px;}
+    
+   
+    .last{
+        color:white;
+        text-align: center;
+        background-color: black;
+        padding-bottom: 45px;
+        padding-top: 30px;
+        
+    }
+    #email{
+        color: brown;
+        
+       
+    }
+    .pic{
+        text-align: center;
+        background-color: rgb(219, 233, 233);
+        box-sizing: border-box;
+     margin: 50px;
+        
+    }
+    .get{
+        text-align: center;
+        font-size: 25px;
+        background-color: lime;
+        padding-bottom: 20px;
+        margin-left: 25px;
+        margin-right: 25px;
+    }
+    input{border-bottom: 5px solid red;
+    }
+    .plan{
+        text-align: center;
+        font-size: 25px;
+    }
+    #boxContainer{
+        display: flex;
+        justify-content: space-evenly;
+        margin-top: 20px;
+        text-align: center;
+        padding: 30px;
+        background-color: rgb(190, 236, 229);
+        
+
+    }
+    
+    #boxContainer p {
+        
+        margin-top: 20px;
+        padding: 15px;
+    }
+    
+    
+    .numberOne{
+        width: 400px;
+        height: 400px;
+        background-color: rgb(122, 142, 230);
+        border-radius: 7px;
+    }
+    .numberTwo{
+        width: 400px;
+        height: 400px;
+        background-color: rgb(228, 142, 131);
+        border-radius: 7px;
+    
+    }
+    .numberThree{
+        width: 400px;
+        height: 400px;
+        background-color: rgb(245, 214, 147);
+        border-radius: 7px;
+       
+    }
+    
+    .numberOne:hover{
+        cursor: pointer;
+        background-color: crimson;
+        color: white;
+    }
+    .numberTwo:hover{
+        cursor: pointer;
+        background-color: rgb(0, 0, 0);
+        color: white;
+    }
+    .numberThree:hover{
+        cursor: pointer;
+        background-color: rgb(40, 20, 220);
+        color: white;
+    }
+    
+    
+    
+    .fa-solid fa-bowl-food{
+        font-size: 50px;
+        color: rgb(194, 202, 196);
+        margin-top: 15px;
+    }
+    .fa-solid fa-bowl-rice{
+        font-size: 50px;
+        color: rgb(172, 73, 73);
+        margin-top: 15px;
+        font-size: 50px;
+    }
+    
+    .fa-solid fa-house-crack{
+        font-size: 50px;
+        color: rgb(61, 12, 39);
+        margin-top: 15px;
+    }
+    
+    .pic{
+        margin-top: 50px;
+        height: 400px;
+        width: 500px;
+        border: 5px;
+        border-radius: 5px;
+        border-color: black;
+        margin-left: 500px;
+    }
+    .picone{
+        margin-top: 50px;
+        height: 400px;
+        width: 500px;
+        border: 5px;
+        border-radius: 5px;
+        border-color: black;
+        background-color: brown;
+        margin-left: 50px;
+    }
+    .ikbal{
+        
+        margin-left: 500px;
+        height: 100px;
+        width: 500px;
+        background-color: aqua;
+        margin-bottom: 30px;
+        padding-top: 30px;
+        margin-top: 30px;
+        padding-top: 80px;
+        padding-right: 10px;
+    }
+    #email{
+        border-bottom: none;
+        margin-left: 100px;
+    }
